@@ -7,7 +7,7 @@ class About extends Component {
   render() {
     return (
       <div
-        id="about"
+        id="my_app/about"
         className="w-screen max-w-[1400px] h-screen bg-my-lightgray"
       >
         <div className="h-[50%] w-[100%] bg-my-black opacity-10"></div>

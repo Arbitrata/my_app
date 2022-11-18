@@ -7,37 +7,37 @@ function Navbar() {
   const links = [
     {
       id: 100,
-      to: "home",
+      to: "my_app/home",
       label: "Home",
     },
     {
       id: 200,
-      to: "about",
+      to: "my_app/about",
       label: "About",
     },
     {
       id: 300,
-      to: "services",
+      to: "my_app/services",
       label: "Services",
     },
     {
       id: 400,
-      to: "skills",
+      to: "my_app/skills",
       label: "Skills",
     },
     {
       id: 500,
-      to: "projects",
+      to: "my_app/projects",
       label: "Portfolio",
     },
     {
       id: 600,
-      to: "testimonials",
+      to: "my_app/testimonials",
       label: "testimonials",
     },
     {
       id: 700,
-      to: "contact",
+      to: "my_app/contact",
       label: "Contact",
     },
   ];

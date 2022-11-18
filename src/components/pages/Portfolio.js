@@ -53,7 +53,7 @@ class Portfolio extends Component {
   render() {
     return (
       <div
-        id="projects"
+        id="my_app/projects"
         className="bg-my-white md:h-fit md:pb-0 pb-10 max-w-[1400px]"
       >
         <div className="flex justify-between">

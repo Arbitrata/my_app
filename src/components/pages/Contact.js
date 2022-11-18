@@ -50,7 +50,7 @@ function Contact() {
 
   return (
       <div
-        id="contact"
+        id="my_app/contact"
         className="w-screen h-screen pb-4 md:pl-[90px] md:mt-0 mt-14 max-w-[1400px] md:pr-[100px] md:grid place-content-center"
       >
         <div className="md:mb-4 mb-10 -ml-6">

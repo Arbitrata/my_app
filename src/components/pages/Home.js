@@ -15,7 +15,7 @@ class Home extends Component {
     return (
       <div className=" overflow-x-hidden overflow-y-auto max-w-[1400px]">
         <div
-          id="home"
+          id="my_app/home"
           className="w-full md:h-screen h-fit md:flex block md:px-0 px-4 overflow-x-hidden md:max-w-[1400px]"
         >
           <div className="md:w-[55%] grid place-content-center">

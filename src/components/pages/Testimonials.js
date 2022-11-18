@@ -38,7 +38,7 @@ export default function Testimonials() {
 
   return (
     <div
-      id="testimonials"
+      id="my_app/testimonials"
       className="block w-screen md:h-screen md:pt-0 pt-14 h-fit bg-my-lightgray md:pb-0 pb-14 max-w-[1400px]"
     >
       <div className="md:ml-[100px]">

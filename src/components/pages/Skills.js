@@ -6,7 +6,7 @@ import Title from "../common/Title";
 
 const Skills = () => {
   return (
-    <div id="skills" className="h-fit bg-my-lightgray w-screen block pb-10 md:pt-0  max-w-[1400px]">
+    <div id="my_app/skills" className="h-fit bg-my-lightgray w-screen block pb-10 md:pt-0  max-w-[1400px]">
       <div className="w-full h-[100px] pt-4 md:pl-[190px]">
         <Title title={"Skills"} />
       </div>
