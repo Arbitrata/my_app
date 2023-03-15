@@ -8,7 +8,7 @@ function App() {
     <div className="overflow-x-hidden">
       <Navbar />
       <Routes>
-        <Route path="/" element={<Home />} />
+        <Route path="/my_app" element={<Home />} />
       </Routes>
       <Footer />
     </div>

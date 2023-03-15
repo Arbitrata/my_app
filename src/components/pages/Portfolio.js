@@ -10,20 +10,20 @@ class Portfolio extends Component {
   state = {
     projects1: [
       {
-        image: "duka.png",
+        image: "my_app/duka.png",
         to: "https://arbitrata.github.io/bzproject-1/",
 
         title: "Duka Project",
         text: "Duka app is a dummy system that help shop owners to display there products to the buyers ,The system is created using Html and css for fronted part. my 1st project ",
       },
       {
-        image: "room.booking-pic.png",
+        image: "my_app/room.booking-pic.png",
         to: "https://arbitrata.github.io/room-booking/",
         title: "Booking platform",
         text: "This is a Dummy platform that help users to book a room from a restaurant. Technologogies used: Html, CSS and Javascript to give user feedback after booking a room ",
       },
       {
-        image: "akan-app-pic.png",
+        image: "my_app/akan-app-pic.png",
         to: "https://arbitrata.github.io/akan-project/",
         title: "Akan-name Generator",
         text: "Akan-name generator is A dummy system tha generates ones akan name according to the gender and day of the week the person was born. Html and Css is used for the frontend part and Javascript for the logic part",
@@ -31,19 +31,19 @@ class Portfolio extends Component {
     ],
     projects2: [
       {
-        image: "ujenzi.png ",
+        image: "my_app/ujenzi.png ",
         to: "",
         title: "Ujenzi Platform",
         text: "This is a platform that the user registers and and views and updates their profiles . Technologies used : React Js, tailwinds CSS, Node js, Postgres",
       },
       {
-        image: "crud-app-pic.png",
+        image: "my_app/crud-app-pic.png",
         to: "https://andy-crud-application.herokuapp.com/",
         title: "CRUD-Application",
         text: "This is system that helps the user to perfom the crud operations on their daily tasks. Technologies used: react js, fake json server, tailwinds css",
       },
       {
-        image: "cout.png",
+        image: "my_app/cout.png",
         to: "",
         title: "Couter app",
         text: "This is a dummy counter project where one can add delete or and the number of counts in a counter.Technologies used: react js, tailwinds css",

@@ -31,17 +31,19 @@ class Home extends Component {
                 <br />
                 <br />
                 <span className="text-[16px] font-semibold text-my-black opacity-90">
-                  FULLSTACK SOFTWARE DEVELOPER , UI/UX DESIGNER & PROJECT
-                  MANAGER
+                  FULLSTACK SOFTWARE ENGINEER , UI/UX DESIGNER & PROJECT MANAGER
                 </span>
                 <br />
                 <br />
+                <div className="">
                 <span className="text-center text-[15px] text-my-black opacity-60 font-medium">
-                  Software developer with 1 years of hands-on experience UI/UX
-                  designing, developing, data modelling, managing Projects and
-                  implementing applications and solutions using a range of
-                  technologies and programming languages.
+                  Meet Andrew, a full-stack software engineer who
+                  is passionate about his work. Andrew is a dedicated and
+                  talented developer who has honed his skills in building
+                  complex software solutions that are efficient, scalable, and
+                  user-friendly. 
                 </span>
+                </div>
               </h1>
               <div className=" bottom-0 mt-[40px] h-[70px] w-full flex justify-between items-center">
                 <Link to="contact">
@@ -64,7 +66,7 @@ class Home extends Component {
           <div className=" md:w-[55%] bg-my-black pb-[10px] md:skew-x-12 md:mr-[-100px] opacity-80 grid place-content-center">
             <div className="md:w-[360px] md:h-[450px] md:-skew-y-12 md:rotate-12">
               <img
-                src='andy.png'
+                src="my_app/andy.png"
                 alt="andrew mbugua"
                 className="top-1 opacity-80 h-full brightness-10 brightness-60 contrast-150"
               />

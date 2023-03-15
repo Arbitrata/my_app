@@ -2,7 +2,7 @@ import React from "react";
 
 export default function Title({ title }) {
   return (
-    <div className="ml-9 block">
+    <div className="block">
       <div className="text-my-orange text-[32px] font-bold text-left tracking-widest">
         {title}
       </div>
